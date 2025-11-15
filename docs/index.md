@@ -5,7 +5,7 @@ Aquí encontrarás toda la documentación estructurada del análisis, historia, 
 
 ---
 
-## 📌 Objetivo de la Wiki
+##  Objetivo de la Wiki
 
 Centralizar el conocimiento generado en el proyecto académico, permitiendo:
 
@@ -17,7 +17,7 @@ Centralizar el conocimiento generado en el proyecto académico, permitiendo:
 
 ---
 
-## 🗂 Secciones principales
+##  Secciones principales
 
 - [**Historia de la Empresa**](historia.md)
 - [**Actores Clave**](actores.md)
@@ -28,7 +28,7 @@ Centralizar el conocimiento generado en el proyecto académico, permitiendo:
 
 ---
 
-## 🧩 Sobre la empresa
+##  Sobre la empresa
 
 **Intergrupo S.A.** es una compañía colombiana líder en el sector TI, con más de 35 años de trayectoria y presencia en toda Latinoamérica.
 
