@@ -4,7 +4,7 @@ A continuación se presenta el flujo interno del conocimiento en Intergrupo.
 
 ---
 
-## 🔄 Ciclo del Conocimiento
+##  Ciclo del Conocimiento
 
 1. **Dirección Estratégica:** Define lineamientos.  
 2. **Gerencias:** Traducen estrategia en acciones.  
@@ -13,7 +13,7 @@ A continuación se presenta el flujo interno del conocimiento en Intergrupo.
 
 ---
 
-## 🖼 Diagrama del Mapa (placeholder)
+##  Diagrama del Mapa (placeholder)
 
 ![Mapa del Conocimiento](assets/mapa-conocimiento.png)
 
