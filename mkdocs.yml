@@ -1,1 +1,35 @@
+site_name: Wiki Intergrupo
+site_description: Documentación oficial del proyecto de Gestión del Conocimiento en Intergrupo S.A.
+site_author: Daniel Stiven Munca
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue
+      accent: deep purple
+
+nav:
+  - Inicio: index.md
+  - Historia: historia.md
+  - Actores Clave: actores.md
+  - Canales de Conocimiento: canales.md
+  - Barreras Identificadas: barreras.md
+  - Mapa de Conocimiento: mapa.md
+  - Solución Propuesta: solucion-propuesta.md
+  - Referencias: referencias.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - footnotes
+  - def_list
+  - attr_list
+  - md_in_html
+
+extra:
+  generator: false
 
