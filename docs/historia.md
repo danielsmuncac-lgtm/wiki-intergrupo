@@ -5,7 +5,7 @@ Intergrupo S.A. nació en Medellín, Colombia, hace más de **35 años**, en un 
 
 ---
 
-## 🕒 Línea de Tiempo — Hitos Clave
+##  Línea de Tiempo — Hitos Clave
 
 | Año | Hito |
 |-----|------|
@@ -19,7 +19,7 @@ Intergrupo S.A. nació en Medellín, Colombia, hace más de **35 años**, en un 
 
 ---
 
-## 🚀 Evolución de la Empresa
+##  Evolución de la Empresa
 
 Intergrupo ha pasado de ser una empresa local de desarrollo de software a convertirse en líder regional en transformación digital, destacándose por:
 
@@ -29,7 +29,7 @@ Intergrupo ha pasado de ser una empresa local de desarrollo de software a conver
 
 ---
 
-## 📍 Estado Actual
+##  Estado Actual
 
 Hoy en día, Intergrupo ofrece soluciones de:
 
