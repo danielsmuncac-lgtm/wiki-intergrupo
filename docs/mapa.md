@@ -15,6 +15,6 @@ A continuación se presenta el flujo interno del conocimiento en Intergrupo.
 
 ##  Diagrama del Mapa 
 
-![Mapa del Conocimiento](assets/captura.png)
+![Mapa del Conocimiento](assets/captura.PNG)
 
 
