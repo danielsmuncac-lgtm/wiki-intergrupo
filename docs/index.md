@@ -1,1 +1,36 @@
+# Wiki Intergrupo S.A.
+
+Bienvenido a la Wiki oficial del proyecto **Gestión del Conocimiento Organizacional en Intergrupo S.A.**  
+Aquí encontrarás toda la documentación estructurada del análisis, historia, actores, barreras y mapa de conocimiento, junto con la solución propuesta para optimizar la gestión interna de información.
+
+---
+
+## 📌 Objetivo de la Wiki
+
+Centralizar el conocimiento generado en el proyecto académico, permitiendo:
+
+- Comprender cómo fluye el conocimiento dentro de la organización.
+- Identificar actores clave.
+- Analizar las barreras existentes.
+- Proponer soluciones reales basadas en tecnología.
+- Presentar la empresa desde una perspectiva estructurada y profesional.
+
+---
+
+## 🗂 Secciones principales
+
+- **Historia de la Empresa**
+- **Actores Clave**
+- **Canales de Comunicación**
+- **Barreras en la Gestión del Conocimiento**
+- **Mapa de Conocimiento Organizacional**
+- **Solución Tecnológica Propuesta**
+
+---
+
+## 🧩 Sobre la empresa
+
+**Intergrupo S.A.** es una compañía colombiana líder en el sector TI, con más de 35 años de trayectoria y presencia en toda Latinoamérica.
+
+---
 
