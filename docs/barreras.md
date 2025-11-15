@@ -4,25 +4,25 @@ A pesar de contar con múltiples canales, Intergrupo enfrenta barreras que dific
 
 ---
 
-## 🧱 Barrera Tecnológica
+##  Barrera Tecnológica
 **Descripción:** Falta de estandarización de plataformas.  
 **Efecto:** Genera islas de conocimiento.
 
 ---
 
-## 🧱 Barrera Cultural
+##  Barrera Cultural
 **Descripción:** Retención de conocimiento por ventaja personal.  
 **Efecto:** Reduce la colaboración.
 
 ---
 
-## 🧱 Barrera Comunicacional
+##  Barrera Comunicacional
 **Descripción:** Sobrecarga de correos y reuniones.  
 **Efecto:** Desinformación y pérdida de tiempo.
 
 ---
 
-## 🧱 Barrera Estructural
+##  Barrera Estructural
 **Descripción:** Jerarquías rígidas.  
 **Efecto:** Menos agilidad en toma de decisiones.
 
