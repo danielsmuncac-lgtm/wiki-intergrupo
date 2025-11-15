@@ -17,5 +17,4 @@ A continuación se presenta el flujo interno del conocimiento en Intergrupo.
 
 ![Mapa del Conocimiento](assets/mapa-conocimiento.png)
 
-> Cuando estés en tu PC, reemplaza este archivo por el diagrama real.
 
