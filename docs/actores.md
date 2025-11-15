@@ -16,7 +16,7 @@ El flujo del conocimiento en Intergrupo depende directamente de la interacción 
 
 ---
 
-## 🛠 Soporte Técnico
+##  Soporte Técnico
 **Rol:** Resuelve incidencias internas y externas.  
 **Impacto:** Produce conocimiento operativo y soluciones inmediatas.
 
