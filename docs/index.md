@@ -19,12 +19,12 @@ Centralizar el conocimiento generado en el proyecto académico, permitiendo:
 
 ## 🗂 Secciones principales
 
-- **Historia de la Empresa**
-- **Actores Clave**
-- **Canales de Comunicación**
-- **Barreras en la Gestión del Conocimiento**
-- **Mapa de Conocimiento Organizacional**
-- **Solución Tecnológica Propuesta**
+- [**Historia de la Empresa**](historia.md)
+- [**Actores Clave**](actores.md)
+- [**Canales de Comunicación**](canales.md)
+- [**Barreras en la Gestión del Conocimiento**](barreras.md)
+- [**Mapa de Conocimiento Organizacional**](mapa.md)
+- [**Solución Tecnológica Propuesta**](solucion-propuesta.md)
 
 ---
 
