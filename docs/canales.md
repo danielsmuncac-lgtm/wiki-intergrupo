@@ -4,7 +4,7 @@ Intergrupo utiliza una variedad de canales formales, informales y digitales para
 
 ---
 
-## 🧾 Canales Formales
+##  Canales Formales
 - Reuniones programadas  
 - Correo corporativo  
 - Intranet  
@@ -13,14 +13,14 @@ Intergrupo utiliza una variedad de canales formales, informales y digitales para
 
 ---
 
-## 💬 Canales Informales
+##  Canales Informales
 - Charlas en zonas comunes  
 - Grupos internos de WhatsApp  
 - Conversaciones espontáneas  
 
 ---
 
-## 💻 Canales Digitales
+##  Canales Digitales
 - GitHub  
 - Repositorios de código  
 - Bases de datos compartidas  
