@@ -4,13 +4,13 @@ El flujo del conocimiento en Intergrupo depende directamente de la interacción 
 
 ---
 
-## 🧑‍💼 Alta Dirección
+##  Alta Dirección
 **Rol:** Define la estrategia organizacional.  
 **Impacto:** Prioriza la innovación y la cultura de aprendizaje.
 
 ---
 
-## 👨‍💻 Desarrollo de Software
+##  Desarrollo de Software
 **Rol:** Ingenieros y desarrolladores que crean productos digitales.  
 **Impacto:** Generan documentación técnica, código y buenas prácticas.
 
@@ -22,13 +22,13 @@ El flujo del conocimiento en Intergrupo depende directamente de la interacción 
 
 ---
 
-## 🧑‍🏫 Recursos Humanos
+##  Recursos Humanos
 **Función:** Formación, capacitación, retención de talento.  
 **Contribución:** Facilita el aprendizaje organizacional continuo.
 
 ---
 
-## 🤝 Clientes y Aliados
+##  Clientes y Aliados
 **Función:** Retroalimentan y exigen nuevas soluciones tecnológicas.  
 **Contribución:** Impulsan la innovación.
 
